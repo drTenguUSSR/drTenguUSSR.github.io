@@ -26,7 +26,7 @@ style="float: right;")
 
 в рамках таблицы не работают выделения ни (\*) ни тегом (b)
 
-## Markdown HTML Preview
+## Markdown HTML Preview (subLime)
 
 [Markdown HTML Preview https://github.com/zeyon/MarkdownHtmlPreview](https://github.com/zeyon/MarkdownHtmlPreview)
 

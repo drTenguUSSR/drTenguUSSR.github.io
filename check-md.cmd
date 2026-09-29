@@ -1,1 +1,1 @@
-markdownlint -c %markdownlint_cfg%  --disable MD033 -- *.md
+%USERPROFILE%\AppData\Roaming\npm\markdownlint -c %markdownlint_cfg%  --disable MD033 -- *.md
